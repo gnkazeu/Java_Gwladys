@@ -1,4 +1,4 @@
-package JavaAss1;
+package Java_Assignment_1;
 
 public class Swap {
     public static void main (String[] args) {
